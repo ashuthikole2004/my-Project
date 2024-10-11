@@ -62,7 +62,6 @@ function Footer() {
           </a>
         </div>
 
-        {/* Copyright Information */}
         <div className="text-center">
           <p className="text-sm text-gray-400">
             © Robotics Research Lab. All Rights Reserved
