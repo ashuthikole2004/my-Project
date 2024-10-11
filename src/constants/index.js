@@ -1,4 +1,4 @@
-import img1 from "../assets/2024-2.jpg";
+import img1 from "../assets/2024_2.jpg";
 import img2 from "../assets/2023.jpg";
 import img3 from "../assets/2022 int.jpg";
 import img4 from "../assets/2021.jpg";
