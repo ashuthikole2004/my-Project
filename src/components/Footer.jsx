@@ -9,7 +9,7 @@ function Footer() {
         <div className="flex space-x-4 mb-4">
           <a
             href=" https://www.youtube.com/@TeamAbhedya/"
-            target='_blank'
+            target="_blank"
             className="text-2xl transition-transform transform hover:scale-110"
             title="YouTube"
           >
@@ -17,7 +17,7 @@ function Footer() {
           </a>
           <a
             href="https://in.linkedin.com/company/robotics-research-lab"
-            target='_blank'
+            target="_blank"
             className="text-2xl transition-transform transform hover:scale-110"
             title="LinkedIn"
           >
@@ -25,7 +25,7 @@ function Footer() {
           </a>
           <a
             href="https://www.instagram.com/team_abhedya_gcoeara/"
-            target='_blank'
+            target="_blank"
             className="text-2xl transition-transform transform hover:scale-110"
             title="Instagram"
           >
@@ -33,7 +33,7 @@ function Footer() {
           </a>
           <a
             href="mailto:rrlgcoeara2@gmail.com "
-            target='_blank'
+            target="_blank"
             className="text-2xl transition-transform transform hover:scale-110"
             title="Instagram"
           >
@@ -45,19 +45,19 @@ function Footer() {
           <a href="/" className="hover:text-gray-400 transition-colors">
             Home
           </a>
-          <a href="/about" className="hover:text-gray-400 transition-colors">
+          <a href="About" className="hover:text-gray-400 transition-colors">
             About Us
           </a>
           <a
-            href="/achievements"
+            href="Achievements"
             className="hover:text-gray-400 transition-colors"
           >
             Achievements
           </a>
-          <a href="/contact" className="hover:text-gray-400 transition-colors">
+          <a href="Contact" className="hover:text-gray-400 transition-colors">
             Contact Us
           </a>
-          <a href="/team" className="hover:text-gray-400 transition-colors">
+          <a href="Team" className="hover:text-gray-400 transition-colors">
             Our Team
           </a>
         </div>
