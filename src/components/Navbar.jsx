@@ -160,7 +160,7 @@ function Navbar() {
           </Link>
 
           <div className="flex justify-center gap-4 mt-4 text-2xl">
-            <Link to=" https://www.youtube.com/@TeamAbhedya/">
+            <Link to="https://www.youtube.com/@TeamAbhedya/">
               <IoLogoYoutube />
             </Link>
             <Link to=" https://in.linkedin.com/company/robotics-research-lab">
