@@ -46,26 +46,26 @@ function Footer() {
           <Link to="/" className="hover:text-gray-400 transition-colors">
             Home
           </Link>
-          <Link to="/About" className="hover:text-gray-400 transition-colors">
+          <Link to="About" className="hover:text-gray-400 transition-colors">
             About Us
           </Link>
           <Link
-            to="/Achievements"
+            to="Achievements"
             className="hover:text-gray-400 transition-colors"
           >
             Achievements
           </Link>
-          <Link to="/Contact" className="hover:text-gray-400 transition-colors">
+          <Link to="Contact" className="hover:text-gray-400 transition-colors">
             Contact Us
           </Link>
-          <Link to="/Team" className="hover:text-gray-400 transition-colors">
+          <Link to="Team" className="hover:text-gray-400 transition-colors">
             Our Team
           </Link>
         </div>
 
         <div className="text-center">
           <p className="text-sm text-gray-400">
-            © Robotics Research Lab. All Rights Reserved
+            @Robotics Research Lab. All Rights Reserved
           </p>
         </div>
       </div>
