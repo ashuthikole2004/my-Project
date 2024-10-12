@@ -35,7 +35,7 @@ function Home() {
               TEAM ABHEDYA
             </span>
             <motion.p
-              className="mt-5 lg:text-xl"
+              className="mt-5 lg:text-xl text-center"
               variants={typingContainer}
               initial="hidden"
               animate="visible"
