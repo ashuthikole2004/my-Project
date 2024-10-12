@@ -22,7 +22,7 @@ const typingEffect = {
 function Home() {
   return (
     <>
-      <div id="Home" className="border-b border-neutral-900 pb-6 lg:pt-20 pt-24">
+      <div id="Home" className="border-b border-neutral-900 pb-6 lg:pt-28 pt-24">
         <div className="flex flex-col-reverse lg:flex-row items-center justify-center lg:justify-between px-4 lg:px-20">
           <div className="w-full lg:w-1/2 text-center lg:text-center mt-8 lg:mt-0 lg:ml-28">
             <h1 className="text-xl lg:text-4xl font-bold tracking-tight leading-tight">
@@ -35,7 +35,7 @@ function Home() {
               TEAM ABHEDYA
             </span>
             <motion.p
-              className="mt-5 lg:text-xl text-center"
+              className="hidden lg:flex mt-5 ml-10 lg:text-xl text-center"
               variants={typingContainer}
               initial="hidden"
               animate="visible"
